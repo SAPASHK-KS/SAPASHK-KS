@@ -11,8 +11,7 @@
 - 📊 Strong interest in **Data Science & Machine Learning**
 - 🤖 Hands-on experience with **ML algorithms & model deployment**
 - 🧠 Curious learner, always exploring **AI, DS & Analytics**
-- 🏋️ Fitness focused | 🍰 Home baker | 📸 Photography lover
-- 🎯 Goal: Become a **top-tier Data Scientist**
+- 🏋️ Fitness focused | 🍰 Home baker 
 
 ---
 
@@ -40,15 +39,39 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **Mushroom Classification (Decision Tree)**  
-🔹 **Spam Detection (Naive Bayes)**  
-🔹 **Loan Prediction System (Random Forest)**  
-🔹 **Spotify Song Popularity Predictor (Linear Regression)**  
-🔹 **Breast Cancer Prediction (Logistic Regression)**  
+### 📊 Data Science & Machine Learning
 
-📌 Each project includes dataset handling, model training, evaluation, and Streamlit deployment.
+- **Spotify Popularity Prediction (Linear Regression)**  
+  Predicts song popularity based on audio features using regression techniques.  
+  🔗 https://github.com/SAPASHK-KS/arr-spotify-popularity
+
+- **Breast Cancer Prediction (Logistic Regression)**  
+  Classifies tumors as malignant or benign using medical datasets.  
+  🔗 https://github.com/SAPASHK-KS/breast-cancer-predictor-app
+
+- **Loan Approval Prediction (Random Forest)**  
+  Predicts loan approval status using ensemble learning methods.  
+  🔗 https://github.com/SAPASHK-KS/rf-classifier
+
+- **Spam Detection System (Naive Bayes)**  
+  NLP-based classification to detect spam messages.  
+  🔗 https://github.com/SAPASHK-KS/spam-detection
+
+- **Mushroom Classification (Decision Tree)**  
+  Classifies mushrooms as edible or poisonous using categorical features.  
+  🔗 https://github.com/SAPASHK-KS/mushroom-dt
+
+- **Random Forest Regression Project**  
+  Predicts continuous target values using Random Forest Regressor.  
+  🔗 https://github.com/SAPASHK-KS/rf-regression
+
+- **K-Means Clustering Application**  
+  Unsupervised learning project for data segmentation and clustering.  
+  🔗 https://github.com/SAPASHK-KS/k-means
+
+📌 Each project includes data preprocessing, model training, evaluation, and **Streamlit deployment**.
 
 ---
 
