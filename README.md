@@ -48,7 +48,7 @@
 🔹 **Spotify Song Popularity Predictor (Linear Regression)**  
 🔹 **Breast Cancer Prediction (Logistic Regression)**  
 
-👉 Check out my repositories to see full implementations 🚀
+📌 Each project includes dataset handling, model training, evaluation, and Streamlit deployment.
 
 ---
 
