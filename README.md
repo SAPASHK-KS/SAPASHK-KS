@@ -1,94 +1,124 @@
-# 👋 Hey, I'm Sapashk
+# Sapashk K S
 
-🎓 B.Sc Computer Science (AI & Data Science) Student  
-🤖 Aspiring Data Scientist | Machine Learning Enthusiast  
-💻 Passionate about AI, Data, and Building Real-World Projects  
+B.Sc. Computer Science (AI & Data Science) Student  
+Aspiring Data Scientist | Machine Learning Enthusiast  
 
----
-
-## 🚀 About Me
-
-- 📊 Strong interest in **Data Science & Machine Learning**
-- 🤖 Hands-on experience with **ML algorithms & model deployment**
-- 🧠 Curious learner, always exploring **AI, DS & Analytics**
-- 🏋️ Fitness focused | 🍰 Home baker 
+Passionate about Artificial Intelligence, Data Science, and building real-world machine learning applications. Skilled in developing end-to-end ML projects including data preprocessing, model training, evaluation, and deployment.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 👨‍💻 Programming & Scripting
-- Python 
-- Java 
+- Strong interest in Data Science, Machine Learning, and AI
+- Experience working with machine learning algorithms and deployment tools
+- Interested in solving real-world problems using data-driven solutions
+- Continuous learner exploring advanced AI and analytics concepts
+- Also passionate about fitness and home baking
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- Java
 - SQL
 
-### 📊 Data Science & ML
-- Pandas, NumPy
-- Matplotlib, Seaborn
+### Data Science & Machine Learning
+- Pandas
+- NumPy
+- Matplotlib
 - Scikit-learn
 - Machine Learning Algorithms
 
-### 🌐 Web & Deployment
-- HTML, CSS, Bootstrap
+### Web & Deployment
+- HTML
+- CSS
+- Bootstrap
 - Streamlit
 - Git & GitHub
 
-### 🗄️ Databases
+### Databases
 - PostgreSQL
 - MongoDB (Basics)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Data Science & Machine Learning
+### Spotify Popularity Prediction
+Linear Regression model to predict song popularity using Spotify audio features.
 
-- **Spotify Popularity Prediction (Linear Regression)**  
-  Predicts song popularity based on audio features using regression techniques.  
-  🔗 https://github.com/SAPASHK-KS/arr-spotify-popularity
-
-- **Breast Cancer Prediction (Logistic Regression)**  
-  Classifies tumors as malignant or benign using medical datasets.  
-  🔗 https://github.com/SAPASHK-KS/breast-cancer-predictor-app
-
-- **Loan Approval Prediction (Random Forest)**  
-  Predicts loan approval status using ensemble learning methods.  
-  🔗 https://github.com/SAPASHK-KS/rf-classifier
-
-- **Spam Detection System (Naive Bayes)**  
-  NLP-based classification to detect spam messages.  
-  🔗 https://github.com/SAPASHK-KS/spam-detection
-
-- **Mushroom Classification (Decision Tree)**  
-  Classifies mushrooms as edible or poisonous using categorical features.  
-  🔗 https://github.com/SAPASHK-KS/mushroom-dt
-
-- **Random Forest Regression Project**  
-  Predicts continuous target values using Random Forest Regressor.  
-  🔗 https://github.com/SAPASHK-KS/rf-regression
-
-- **K-Means Clustering Application**  
-  Unsupervised learning project for data segmentation and clustering.  
-  🔗 https://github.com/SAPASHK-KS/k-means
-
-📌 Each project includes data preprocessing, model training, evaluation, and **Streamlit deployment**.
+GitHub:  
+https://github.com/SAPASHK-KS/arr-spotify-popularity
 
 ---
 
-## 📈 Currently Learning
+### Breast Cancer Prediction
+Logistic Regression model to classify tumors as malignant or benign using medical datasets.
+
+GitHub:  
+https://github.com/SAPASHK-KS/breast-cancer-predictor-app
+
+---
+
+### Loan Approval Prediction
+Random Forest Classifier used to predict loan approval status using applicant details.
+
+GitHub:  
+https://github.com/SAPASHK-KS/rf-classifier
+
+---
+
+### Spam Detection System
+NLP-based spam classification system using Naive Bayes algorithm.
+
+GitHub:  
+https://github.com/SAPASHK-KS/spam-detection
+
+---
+
+### Mushroom Classification
+Decision Tree model for classifying mushrooms as edible or poisonous.
+
+GitHub:  
+https://github.com/SAPASHK-KS/mushroom-dt
+
+---
+
+### Random Forest Regression
+Regression-based ML project using Random Forest Regressor for continuous value prediction.
+
+GitHub:  
+https://github.com/SAPASHK-KS/rf-regression
+
+---
+
+### K-Means Clustering Application
+Unsupervised learning project focused on clustering and data segmentation.
+
+GitHub:  
+https://github.com/SAPASHK-KS/k-means
+
+---
+
+## Current Learning Focus
 
 - Advanced Machine Learning
 - Data Structures & Algorithms
-- Django for ML Applications
+- Django for Machine Learning Applications
 - Model Optimization & Deployment
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 GitHub: [https://github.com/SAPASHK-KS](https://github.com/SAPASHK-KS)
-- 📧 Email: *(kssapashk@gmail.com)*
+GitHub:  
+https://github.com/SAPASHK-KS
+
+Email:  
+kssapashk@gmail.com
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+"Stay Curious, Stay Strong."
