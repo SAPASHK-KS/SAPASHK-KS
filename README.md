@@ -1,124 +1,38 @@
-# Sapashk K S
+# Hi, I'm Sapashk K S 
 
-B.Sc. Computer Science (AI & Data Science) Student  
-Aspiring Data Scientist | Machine Learning Enthusiast  
+### Data Science & Machine Learning Enthusiast
 
-Passionate about Artificial Intelligence, Data Science, and building real-world machine learning applications. Skilled in developing end-to-end ML projects including data preprocessing, model training, evaluation, and deployment.
-
----
-
-## About Me
-
-- Strong interest in Data Science, Machine Learning, and AI
-- Experience working with machine learning algorithms and deployment tools
-- Interested in solving real-world problems using data-driven solutions
-- Continuous learner exploring advanced AI and analytics concepts
-- Also passionate about fitness and home baking
+I'm a Computer Science (AI & Data Science) undergraduate at Rathinam College, Coimbatore, focused on turning raw data into meaningful insights and real-world solutions.
 
 ---
 
-## Technical Skills
+### What I Do
+- **Data Science & Machine Learning** — building and evaluating supervised & unsupervised models
+- **Data Analytics & Visualization** — cleaning, analyzing, and making sense of data
+- **Python Automation** — writing scripts that save time and reduce manual effort
 
-### Programming Languages
-- Python
-- Java
-- SQL
+### Tech Stack
+**Languages:** Python, Java, SQL
+**Libraries:** Pandas, NumPy, Matplotlib
+**Tools:** Jupyter Notebook, Streamlit, Git & GitHub
+**ML:** Supervised & Unsupervised algorithms
 
-### Data Science & Machine Learning
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Machine Learning Algorithms
-
-### Web & Deployment
-- HTML
-- CSS
-- Bootstrap
-- Streamlit
-- Git & GitHub
-
-### Databases
-- PostgreSQL
-- MongoDB (Basics)
+### Currently
+- Sharpening my skills in Machine Learning and Data Analytics
+- Open to **Data Science / Data Analytics internships**
 
 ---
 
-## Featured Projects
-
-### Spotify Popularity Prediction
-Linear Regression model to predict song popularity using Spotify audio features.
-
-GitHub:  
-https://github.com/SAPASHK-KS/arr-spotify-popularity
+### Featured Projects
+- **Airbnb Price Prediction** — A supervised ML regression model predicting rental prices from location, season & property features
+- **BOM Automation (AtumX)** — Python pipelines for data validation & transformation using Pandas and NumPy
+- **Happy Times Bakes** — A responsive bakery website built with HTML, CSS & JavaScript
 
 ---
 
-### Breast Cancer Prediction
-Logistic Regression model to classify tumors as malignant or benign using medical datasets.
-
-GitHub:  
-https://github.com/SAPASHK-KS/breast-cancer-predictor-app
-
----
-
-### Loan Approval Prediction
-Random Forest Classifier used to predict loan approval status using applicant details.
-
-GitHub:  
-https://github.com/SAPASHK-KS/rf-classifier
+### Let's Connect
+- **Email:** kssapashk@gmail.com
+- **LinkedIn:** [linkedin.com/in/sapashk-ks](https://linkedin.com/in/sapashk-ks)
+- **Location:** Coimbatore, Tamil Nadu, India
 
 ---
-
-### Spam Detection System
-NLP-based spam classification system using Naive Bayes algorithm.
-
-GitHub:  
-https://github.com/SAPASHK-KS/spam-detection
-
----
-
-### Mushroom Classification
-Decision Tree model for classifying mushrooms as edible or poisonous.
-
-GitHub:  
-https://github.com/SAPASHK-KS/mushroom-dt
-
----
-
-### Random Forest Regression
-Regression-based ML project using Random Forest Regressor for continuous value prediction.
-
-GitHub:  
-https://github.com/SAPASHK-KS/rf-regression
-
----
-
-### K-Means Clustering Application
-Unsupervised learning project focused on clustering and data segmentation.
-
-GitHub:  
-https://github.com/SAPASHK-KS/k-means
-
----
-
-## Current Learning Focus
-
-- Advanced Machine Learning
-- Data Structures & Algorithms
-- Django for Machine Learning Applications
-- Model Optimization & Deployment
-
----
-
-## Connect With Me
-
-GitHub:  
-https://github.com/SAPASHK-KS
-
-Email:  
-kssapashk@gmail.com
-
----
-
-"Stay Curious, Stay Strong."
