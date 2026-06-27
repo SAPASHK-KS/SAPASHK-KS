@@ -1,4 +1,4 @@
-Hi, I'm **Sapashk K S !!**
+## Hi, I'm **Sapashk K S !!**
 
 Data Science & ML Enthusiast | Final year B.Sc CS (AI & DS) | Python • SQL • ML | Turning data into decisions.
 ---
