@@ -1,15 +1,13 @@
-Hi, I'm **Sapashk K S**
+Hi, I'm **Sapashk K S !!**
 
-Final Year B.Sc CS (AI & Data Science) | Data Science & ML Engineer
-
+Data Science & ML Enthusiast | Final year B.Sc CS (AI & DS) | Python • SQL • ML | Turning data into decisions.
 ---
 
 ## About Me
 
 -  Final Year **B.Sc CS (AI & Data Science)** @ Rathinam College, Coimbatore
--  Ex-Intern @ **AtumX** — BOM Automation using Python, Pandas & NumPy
--  **IBM Certified** Data Science Professional
--  Actively seeking **Full-Time roles in Data Science / ML Engineering**
+-  Ex-Intern @ **AtumX** — BOM Automation using Python, Playwright
+-  Actively seeking **Full Time roles in Data Science **
 -  CGPA: **8.09**
 -  Coimbatore, Tamil Nadu, India
 
@@ -21,7 +19,7 @@ Final Year B.Sc CS (AI & Data Science) | Data Science & ML Engineer
 
 **ML & Data Science:** Scikit-learn | Pandas | NumPy | TensorFlow | Keras
 
-**Tools:** Jupyter Notebook | Streamlit | Git | GitHub
+**Tools:** Jupyter Notebook | Streamlit | Git | GitHub | VSCode
 
 ---
 
