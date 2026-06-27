@@ -1,38 +1,42 @@
-# Hi, I'm Sapashk K S 
-
-### Data Science & Machine Learning Enthusiast
-
-I'm a Computer Science (AI & Data Science) undergraduate at Rathinam College, Coimbatore, focused on turning raw data into meaningful insights and real-world solutions.
+Hi 👋, I'm Sapashk K S
+Final Year B.Sc CS (AI & Data Science) | Data Science & ML Engineer
 
 ---
 
-### What I Do
-- **Data Science & Machine Learning** — building and evaluating supervised & unsupervised models
-- **Data Analytics & Visualization** — cleaning, analyzing, and making sense of data
-- **Python Automation** — writing scripts that save time and reduce manual effort
+## 🙋‍♂️ About Me
 
-### Tech Stack
-**Languages:** Python, Java, SQL
-**Libraries:** Pandas, NumPy, Matplotlib
-**Tools:** Jupyter Notebook, Streamlit, Git & GitHub
-**ML:** Supervised & Unsupervised algorithms
-
-### Currently
-- Sharpening my skills in Machine Learning and Data Analytics
-- Open to **Data Science / Data Analytics internships**
+- 🎓 Final Year **B.Sc CS (AI & Data Science)** @ Rathinam College, Coimbatore
+- 💼 Ex-Intern @ **AtumX** — BOM Automation using Python, Pandas & NumPy
+- 📜 **IBM Certified** Data Science Professional
+- 🔭 Actively seeking **Full-Time roles in Data Science / ML Engineering**
+- 📊 CGPA: **8.09**
+- 📍 Coimbatore, Tamil Nadu, India
 
 ---
 
-### Featured Projects
-- **Airbnb Price Prediction** — A supervised ML regression model predicting rental prices from location, season & property features
-- **BOM Automation (AtumX)** — Python pipelines for data validation & transformation using Pandas and NumPy
-- **Happy Times Bakes** — A responsive bakery website built with HTML, CSS & JavaScript
+## 🛠️ Tech Stack
+
+**Languages:** Python | SQL | Java
+
+**ML & Data Science:** Scikit-learn | Pandas | NumPy | TensorFlow | Keras
+
+**Tools:** Jupyter Notebook | Streamlit | Git | GitHub
 
 ---
 
-### Let's Connect
-- **Email:** kssapashk@gmail.com
-- **LinkedIn:** [linkedin.com/in/sapashk-ks](https://linkedin.com/in/sapashk-ks)
-- **Location:** Coimbatore, Tamil Nadu, India
+## 🚀 Featured Projects
+
+| Project | Category | Tech | Highlights |
+|---|---|---|---|
+| [ML Projects Portfolio](https://github.com/SAPASHK-KS/ML-Projects-Portfolio) | ML | Python, Sklearn | 12+ organized ML projects |
+| [DeepLearning Projects](https://github.com/SAPASHK-KS/DeepLearning-Projects) | DL | TensorFlow, Keras | ANN, NLP, Sentiment Analysis |
+| [Airbnb Price Prediction](https://github.com/SAPASHK-KS/ML-Projects-Portfolio/tree/main/Regression/Airbnb-Price-Prediction) | Regression | Random Forest | Rental price prediction |
+| [Breast Cancer Predictor](https://github.com/SAPASHK-KS/ML-Projects-Portfolio/tree/main/Classification/Breast-Cancer-predictor) | Classification | ML + Streamlit | Medical diagnosis app |
 
 ---
+
+## 🤝 Let's Connect
+
+- 📧 kssapashk@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/sapashk-ks)
+- 🐙 [GitHub](https://github.com/SAPASHK-KS)
